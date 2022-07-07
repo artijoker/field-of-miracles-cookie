@@ -1,0 +1,10 @@
+.RecordsTable{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 25px;
+}
+
+.RecordsTable td{
+    padding: 0px 25px;
+}
